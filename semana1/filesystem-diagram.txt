@@ -1,0 +1,51 @@
+Sistema de Archivos Linux
+=========================
+
+/ (root)
+│
+├── home
+│   ├── usuario
+│   │   ├── Documentos
+│   │   ├── Descargas
+│   │   └── Imagenes
+│
+├── etc
+│   ├── passwd
+│   ├── group
+│   ├── hosts
+│   └── ssh
+│
+├── var
+│   ├── log
+│   ├── cache
+│   └── www
+│
+├── usr
+│   ├── bin
+│   ├── lib
+│   └── local
+│
+├── bin
+│   ├── ls
+│   ├── cp
+│   └── mv
+│
+├── opt
+│   └── software-terceros
+│
+├── tmp
+│   └── archivos-temporales
+│
+├── boot
+│   └── kernel
+│
+├── dev
+│   ├── sda
+│   └── null
+│
+├── proc
+│   ├── cpuinfo
+│   └── meminfo
+│
+└── sys
+    └── dispositivos
