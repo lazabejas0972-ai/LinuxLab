@@ -13,11 +13,11 @@ Este repositorio contiene prácticas de Linux realizadas durante el curso.
 
 linux-lab/
 
-README.md
+README.md  
 semana01/
 
-filesystem-map.md
-filesystem-diagram.txt
+filesystem-map.md  
+filesystem-diagram.txt  
 ejemplos-practicos.md
 
 ## Objetivos
