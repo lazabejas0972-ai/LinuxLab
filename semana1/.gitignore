@@ -1,0 +1,14 @@
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Carpetas del editor
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
